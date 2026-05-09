@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-pytest
-pytest-cov
-httpx
-#Pillow==8.3.2
-#idna==2.8
