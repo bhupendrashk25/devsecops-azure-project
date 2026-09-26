@@ -5,3 +5,7 @@ pytest-cov
 httpx
 #Pillow==8.3.2
 #idna==2.8
+jaraco.context==6.1.0
+msgpack==1.2.1
+setuptools==83.0.0
+wheel==0.46.2
