@@ -22,7 +22,7 @@ spec:
       containers:
       - name: devsecops-app
         # The pipeline will replace this with the full path + BuildId
-        image: myacrdemo1239.azurecr.io/devsecops-app
+        image: acrdemo9123.azurecr.io/devsecops-app
         ports:
         - containerPort: 8000
         resources:
